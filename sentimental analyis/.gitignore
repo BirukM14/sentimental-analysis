@@ -1,0 +1,28 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore CSV files
+*.csv
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore database files
+*.sqlite3
+
+# Ignore system files
+.DS_Store
+Thumbs.db
